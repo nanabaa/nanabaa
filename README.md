@@ -1,13 +1,13 @@
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=nanabaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="105" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nanabaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true" height="105" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nanabaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nanabaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<h3 align="left">I'm nana and I'm a front-end web developer from Brazil. I like video-game and I'm willing to make my own. I usually take the lead in UI/UX, prototype and design projects.</h3>
+<h3 align="center">I'm nana and I'm a front-end web developer from Brazil. I like video-game and I'm willing to make my own. I usually take the lead in UI/UX, prototype and design projects.</h3>
 
 ###
 
@@ -74,6 +74,14 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=ff6e96&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/nanabaa/nanabaa/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 
