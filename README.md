@@ -11,13 +11,9 @@
 
 ###
 
-<br clear="both">
-
 <p align="center">Languages:</p>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
@@ -61,10 +57,8 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img height="150" src="https://media.tenor.com/2100NQHbjV8AAAAi/shadow.gif"  />
+  <img height="120" src="https://media.tenor.com/SIJYx_Xl564AAAAi/shadow.gif"  />
 </div>
 
 ###
@@ -77,11 +71,7 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/nanabaa/nanabaa/output/snake.svg" alt="Snake animation" />
-
-###
 
 ###
 
