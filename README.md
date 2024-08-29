@@ -71,12 +71,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nanabaa/nanabaa/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/nanabaa/nanabaa/output/snake.svg" alt="Snake animation" />
 
 ###
