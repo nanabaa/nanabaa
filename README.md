@@ -24,14 +24,7 @@
 </div>
 
 ###
-
-<br clear="both">
-
 <p align="flex-start">Tools:</p>
-
-###
-
-<br clear="both">
 
 <div align="flex-start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
@@ -50,8 +43,9 @@
 ###
 
 <div align="flex-start">
-  <img height="120" src="https://media.tenor.com/SIJYx_Xl564AAAAi/shadow.gif"  />
+  <img height="80" src="https://media.tenor.com/SIJYx_Xl564AAAAi/shadow.gif"/>
 </div>
+
 
 ###
 
